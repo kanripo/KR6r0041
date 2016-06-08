@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:14.136303
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:12
 #+TITLE: 唐護法沙門法琳別傳
 #+PROPERTY: CBETA_ID T50n2051
 #+PROPERTY: ID KR6r0041
